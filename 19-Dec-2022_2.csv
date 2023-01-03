@@ -1,0 +1,325 @@
+Depth,Name,Statistic,#Cells
+,Specimen_001_A1_A01_001.fcs,,10000
+> ,Median : FITC-A = 6319.036132812,6319,
+> ,Median : PE-Texas Red-A = 16.838954926,16.8,
+> ,Specimen_001_A1_A01_001.fcs/Lymphocytes,99.9,9991
+,Specimen_001_A2_A02_002.fcs,,10000
+> ,Median : FITC-A = 6261.553710938,6262,
+> ,Median : PE-Texas Red-A = 17.359767914,17.4,
+> ,Specimen_001_A2_A02_002.fcs/Lymphocytes,99.9,9990
+,Specimen_001_A3_A03_003.fcs,,10000
+> ,Median : FITC-A = 6280.653808594,6281,
+> ,Median : PE-Texas Red-A = 17.951290131,18,
+> ,Specimen_001_A3_A03_003.fcs/Lymphocytes,99.9,9989
+,Specimen_001_A4_A04_004.fcs,,10000
+> ,Median : FITC-A = 7868.620117188,7869,
+> ,Median : PE-Texas Red-A = 258.000549316,258,
+> ,Specimen_001_A4_A04_004.fcs/Lymphocytes,99.9,9987
+,Specimen_001_A5_A05_005.fcs,,10000
+> ,Median : FITC-A = 7471.529296875,7472,
+> ,Median : PE-Texas Red-A = 231.910140991,232,
+> ,Specimen_001_A5_A05_005.fcs/Lymphocytes,99.9,9994
+,Specimen_001_A6_A06_006.fcs,,10000
+> ,Median : FITC-A = 7797.041992188,7797,
+> ,Median : PE-Texas Red-A = 261.163391113,261,
+> ,Specimen_001_A6_A06_006.fcs/Lymphocytes,99.9,9991
+,Specimen_001_A7_A07_007.fcs,,10000
+> ,Median : FITC-A = 6839.837890625,6840,
+> ,Median : PE-Texas Red-A = 307.856262207,308,
+> ,Specimen_001_A7_A07_007.fcs/Lymphocytes,99.9,9991
+,Specimen_001_A8_A08_008.fcs,,10000
+> ,Median : FITC-A = 6614.453125,6614,
+> ,Median : PE-Texas Red-A = 254.100875854,254,
+> ,Specimen_001_A8_A08_008.fcs/Lymphocytes,99.9,9988
+,Specimen_001_A9_A09_009.fcs,,10000
+> ,Median : FITC-A = 6860.702148438,6861,
+> ,Median : PE-Texas Red-A = 284.415344238,284,
+> ,Specimen_001_A9_A09_009.fcs/Lymphocytes,99.9,9993
+,Specimen_001_B1_B01_010.fcs,,10000
+> ,Median : FITC-A = 5873.5625,5874,
+> ,Median : PE-Texas Red-A = 183.424575806,183,
+> ,Specimen_001_B1_B01_010.fcs/Lymphocytes,100,9995
+,Specimen_001_B2_B02_011.fcs,,10000
+> ,Median : FITC-A = 5476.146972656,5476,
+> ,Median : PE-Texas Red-A = 147.302383423,147,
+> ,Specimen_001_B2_B02_011.fcs/Lymphocytes,100,9996
+,Specimen_001_B3_B03_012.fcs,,10000
+> ,Median : FITC-A = 5543.276367188,5543,
+> ,Median : PE-Texas Red-A = 181.203292847,181,
+> ,Specimen_001_B3_B03_012.fcs/Lymphocytes,99.9,9992
+,Specimen_001_B4_B04_013.fcs,,10000
+> ,Median : FITC-A = 1998.019897461,1998,
+> ,Median : PE-Texas Red-A = 163.37588501,163,
+> ,Specimen_001_B4_B04_013.fcs/Lymphocytes,99.9,9993
+,Specimen_001_B5_B05_014.fcs,,10000
+> ,Median : FITC-A = 1829.095336914,1829,
+> ,Median : PE-Texas Red-A = 134.438323975,134,
+> ,Specimen_001_B5_B05_014.fcs/Lymphocytes,99.9,9994
+,Specimen_001_B6_B06_015.fcs,,10000
+> ,Median : FITC-A = 2143.020507812,2143,
+> ,Median : PE-Texas Red-A = 177.921585083,178,
+> ,Specimen_001_B6_B06_015.fcs/Lymphocytes,100,9996
+,Specimen_001_B7_B07_016.fcs,,10000
+> ,Median : FITC-A = 4100.162597656,4100,
+> ,Median : PE-Texas Red-A = 32.51309967,32.5,
+> ,Specimen_001_B7_B07_016.fcs/Lymphocytes,99.9,9994
+,Specimen_001_B8_B08_017.fcs,,10000
+> ,Median : FITC-A = 3776.444580078,3776,
+> ,Median : PE-Texas Red-A = 32.711784363,32.7,
+> ,Specimen_001_B8_B08_017.fcs/Lymphocytes,100,9995
+,Specimen_001_B9_B09_018.fcs,,10000
+> ,Median : FITC-A = 3764.958007812,3765,
+> ,Median : PE-Texas Red-A = 63.935054779,63.9,
+> ,Specimen_001_B9_B09_018.fcs/Lymphocytes,99.9,9994
+,Specimen_001_C1_C01_019.fcs,,10000
+> ,Median : FITC-A = 7797.041992188,7797,
+> ,Median : PE-Texas Red-A = 25.637361526,25.6,
+> ,Specimen_001_C1_C01_019.fcs/Lymphocytes,99.9,9993
+,Specimen_001_C2_C02_020.fcs,,10000
+> ,Median : FITC-A = 7358.59765625,7359,
+> ,Median : PE-Texas Red-A = 23.975618362,24,
+> ,Specimen_001_C2_C02_020.fcs/Lymphocytes,99.9,9993
+,Specimen_001_C3_C03_021.fcs,,10000
+> ,Median : FITC-A = 7655.832519531,7656,
+> ,Median : PE-Texas Red-A = 39.75289917,39.8,
+> ,Specimen_001_C3_C03_021.fcs/Lymphocytes,99.9,9994
+,Specimen_001_C4_C04_022.fcs,,10000
+> ,Median : FITC-A = 8261.609375,8262,
+> ,Median : PE-Texas Red-A = 22.765686035,22.8,
+> ,Specimen_001_C4_C04_022.fcs/Lymphocytes,99.9,9992
+,Specimen_001_C5_C05_023.fcs,,10000
+> ,Median : FITC-A = 7773.326171875,7773,
+> ,Median : PE-Texas Red-A = 22.627418518,22.6,
+> ,Specimen_001_C5_C05_023.fcs/Lymphocytes,100,9998
+,Specimen_001_C6_C06_024.fcs,,10000
+> ,Median : FITC-A = 8013.749511719,8014,
+> ,Median : PE-Texas Red-A = 28.262176514,28.3,
+> ,Specimen_001_C6_C06_024.fcs/Lymphocytes,99.9,9993
+,Specimen_001_C7_C07_025.fcs,,10000
+> ,Median : FITC-A = 7336.215332031,7336,
+> ,Median : PE-Texas Red-A = 20.840927124,20.8,
+> ,Specimen_001_C7_C07_025.fcs/Lymphocytes,100,9996
+,Specimen_001_C8_C08_026.fcs,,10000
+> ,Median : FITC-A = 6534.351074219,6534,
+> ,Median : PE-Texas Red-A = 20.339206696,20.3,
+> ,Specimen_001_C8_C08_026.fcs/Lymphocytes,99.9,9990
+,Specimen_001_C9_C09_027.fcs,,10000
+> ,Median : FITC-A = 6396.498535156,6396,
+> ,Median : PE-Texas Red-A = 22.97467804,23,
+> ,Specimen_001_C9_C09_027.fcs/Lymphocytes,99.9,9994
+,Specimen_001_D1_D01_028.fcs,,10000
+> ,Median : FITC-A = 4833.222167969,4833,
+> ,Median : PE-Texas Red-A = 17.412727356,17.4,
+> ,Specimen_001_D1_D01_028.fcs/Lymphocytes,99.9,9994
+,Specimen_001_D2_D02_029.fcs,,10000
+> ,Median : FITC-A = 4547.565429688,4548,
+> ,Median : PE-Texas Red-A = 16.635028839,16.6,
+> ,Specimen_001_D2_D02_029.fcs/Lymphocytes,99.9,9991
+,Specimen_001_D3_D03_030.fcs,,10000
+> ,Median : FITC-A = 3674.319824219,3674,
+> ,Median : PE-Texas Red-A = 16.135953903,16.1,
+> ,Specimen_001_D3_D03_030.fcs/Lymphocytes,99.9,9989
+,Specimen_001_D4_D04_031.fcs,,201
+> ,Median : FITC-A = 3193.922851562,3194,
+> ,Median : PE-Texas Red-A = 18.45022583,18.5,
+> ,Specimen_001_D4_D04_031.fcs/Lymphocytes,91,183
+,Specimen_001_D5_D05_032.fcs,,65
+> ,Median : FITC-A = 18.619598389,18.6,
+> ,Median : PE-Texas Red-A = 6.569667339,6.57,
+> ,Specimen_001_D5_D05_032.fcs/Lymphocytes,72.3,47
+,Specimen_001_D6_D06_033.fcs,,36
+> ,Median : FITC-A = 4.994403839,4.99,
+> ,Median : PE-Texas Red-A = 5.53938818,5.54,
+> ,Specimen_001_D6_D06_033.fcs/Lymphocytes,61.1,22
+,Specimen_001_D7_D07_034.fcs,,10000
+> ,Median : FITC-A = 6223.524414062,6224,
+> ,Median : PE-Texas Red-A = 1216.100708008,1216,
+> ,Specimen_001_D7_D07_034.fcs/Lymphocytes,100,9998
+,Specimen_001_D8_D08_035.fcs,,10000
+> ,Median : FITC-A = 5714.7265625,5715,
+> ,Median : PE-Texas Red-A = 1219.810913086,1220,
+> ,Specimen_001_D8_D08_035.fcs/Lymphocytes,100,9997
+,Specimen_001_D9_D09_036.fcs,,10000
+> ,Median : FITC-A = 5344.313476562,5344,
+> ,Median : PE-Texas Red-A = 1234.764038086,1235,
+> ,Specimen_001_D9_D09_036.fcs/Lymphocytes,99.9,9994
+,Specimen_001_E1_E01_037.fcs,,10000
+> ,Median : FITC-A = 4760.168457031,4760,
+> ,Median : PE-Texas Red-A = 848.924377441,849,
+> ,Specimen_001_E1_E01_037.fcs/Lymphocytes,99.9,9994
+,Specimen_001_E2_E02_038.fcs,,10000
+> ,Median : FITC-A = 4214.120605469,4214,
+> ,Median : PE-Texas Red-A = 777.150817871,777,
+> ,Specimen_001_E2_E02_038.fcs/Lymphocytes,100,9995
+,Specimen_001_E3_E03_039.fcs,,10000
+> ,Median : FITC-A = 4013.660644531,4014,
+> ,Median : PE-Texas Red-A = 798.750671387,799,
+> ,Specimen_001_E3_E03_039.fcs/Lymphocytes,100,9996
+,Specimen_001_E4_E04_040.fcs,,10000
+> ,Median : FITC-A = 967.727478027,968,
+> ,Median : PE-Texas Red-A = 707.124511719,707,
+> ,Specimen_001_E4_E04_040.fcs/Lymphocytes,100,9996
+,Specimen_001_E5_E05_041.fcs,,10000
+> ,Median : FITC-A = 786.677612305,787,
+> ,Median : PE-Texas Red-A = 633.682922363,634,
+> ,Specimen_001_E5_E05_041.fcs/Lymphocytes,99.9,9993
+,Specimen_001_E6_E06_042.fcs,,10000
+> ,Median : FITC-A = 589.010131836,589,
+> ,Median : PE-Texas Red-A = 550.832092285,551,
+> ,Specimen_001_E6_E06_042.fcs/Lymphocytes,99.9,9993
+,Specimen_001_E7_E07_043.fcs,,10000
+> ,Median : FITC-A = 3663.145996094,3663,
+> ,Median : PE-Texas Red-A = 79.856384277,79.9,
+> ,Specimen_001_E7_E07_043.fcs/Lymphocytes,99.9,9990
+,Specimen_001_E8_E08_044.fcs,,10000
+> ,Median : FITC-A = 3292.70703125,3293,
+> ,Median : PE-Texas Red-A = 77.224998474,77.2,
+> ,Specimen_001_E8_E08_044.fcs/Lymphocytes,100,9996
+,Specimen_001_E9_E09_045.fcs,,10000
+> ,Median : FITC-A = 2541.604492188,2542,
+> ,Median : PE-Texas Red-A = 73.551544189,73.6,
+> ,Specimen_001_E9_E09_045.fcs/Lymphocytes,100,9997
+,Specimen_001_F1_F01_046.fcs,,10000
+> ,Median : FITC-A = 6073.698242188,6074,
+> ,Median : PE-Texas Red-A = 31.537670135,31.5,
+> ,Specimen_001_F1_F01_046.fcs/Lymphocytes,100,9995
+,Specimen_001_F2_F02_047.fcs,,10000
+> ,Median : FITC-A = 5409.830078125,5410,
+> ,Median : PE-Texas Red-A = 27.750339508,27.8,
+> ,Specimen_001_F2_F02_047.fcs/Lymphocytes,100,9996
+,Specimen_001_F3_F03_048.fcs,,10000
+> ,Median : FITC-A = 4519.945800781,4520,
+> ,Median : PE-Texas Red-A = 26.110225677,26.1,
+> ,Specimen_001_F3_F03_048.fcs/Lymphocytes,99.9,9994
+,Specimen_001_F4_F04_049.fcs,,10000
+> ,Median : FITC-A = 6675.174804688,6675,
+> ,Median : PE-Texas Red-A = 23.830001831,23.8,
+> ,Specimen_001_F4_F04_049.fcs/Lymphocytes,100,9997
+,Specimen_001_F5_F05_050.fcs,,10000
+> ,Median : FITC-A = 6055.224609375,6055,
+> ,Median : PE-Texas Red-A = 24.12212944,24.1,
+> ,Specimen_001_F5_F05_050.fcs/Lymphocytes,99.9,9991
+,Specimen_001_F6_F06_051.fcs,,10000
+> ,Median : FITC-A = 4982.710449219,4983,
+> ,Median : PE-Texas Red-A = 24.567047119,24.6,
+> ,Specimen_001_F6_F06_051.fcs/Lymphocytes,100,9997
+,Specimen_001_F7_F07_052.fcs,,10000
+> ,Median : FITC-A = 7094.478027344,7094,
+> ,Median : PE-Texas Red-A = 21.35503006,21.4,
+> ,Specimen_001_F7_F07_052.fcs/Lymphocytes,99.9,9992
+,Specimen_001_F8_F08_053.fcs,,10000
+> ,Median : FITC-A = 6881.633789062,6882,
+> ,Median : PE-Texas Red-A = 21.881809235,21.9,
+> ,Specimen_001_F8_F08_053.fcs/Lymphocytes,99.9,9994
+,Specimen_001_F9_F09_054.fcs,,10000
+> ,Median : FITC-A = 6018.447753906,6018,
+> ,Median : PE-Texas Red-A = 21.096412659,21.1,
+> ,Specimen_001_F9_F09_054.fcs/Lymphocytes,100,9997
+,Specimen_001_F10_F10_055.fcs,,10000
+> ,Median : FITC-A = 5645.520507812,5646,
+> ,Median : PE-Texas Red-A = 18.11608696,18.1,
+> ,Specimen_001_F10_F10_055.fcs/Lymphocytes,99.9,9991
+,Specimen_001_F11_F11_056.fcs,,10000
+> ,Median : FITC-A = 6377.042480469,6377,
+> ,Median : PE-Texas Red-A = 19.430803299,19.4,
+> ,Specimen_001_F11_F11_056.fcs/Lymphocytes,100,9995
+,Specimen_001_F12_F12_057.fcs,,10000
+> ,Median : FITC-A = 3203.665527344,3204,
+> ,Median : PE-Texas Red-A = 15.18228054,15.2,
+> ,Specimen_001_F12_F12_057.fcs/Lymphocytes,99.9,9994
+,Specimen_001_G1_G01_058.fcs,,10000
+> ,Median : FITC-A = 5090.094238281,5090,
+> ,Median : PE-Texas Red-A = 2810.367675781,2810,
+> ,Specimen_001_G1_G01_058.fcs/Lymphocytes,100,9998
+,Specimen_001_G2_G02_059.fcs,,10000
+> ,Median : FITC-A = 3787.964111328,3788,
+> ,Median : PE-Texas Red-A = 2406.001708984,2406,
+> ,Specimen_001_G2_G02_059.fcs/Lymphocytes,99.9,9991
+,Specimen_001_G3_G03_060.fcs,,10000
+> ,Median : FITC-A = 1123.50378418,1124,
+> ,Median : PE-Texas Red-A = 2457.854003906,2458,
+> ,Specimen_001_G3_G03_060.fcs/Lymphocytes,99.9,9987
+,Specimen_001_G4_G04_061.fcs,,10000
+> ,Median : FITC-A = 994.624633789,995,
+> ,Median : PE-Texas Red-A = 1357.042358398,1357,
+> ,Specimen_001_G4_G04_061.fcs/Lymphocytes,99.9,9993
+,Specimen_001_G5_G05_062.fcs,,10000
+> ,Median : FITC-A = 326.199127197,326,
+> ,Median : PE-Texas Red-A = 2588.482177734,2588,
+> ,Specimen_001_G5_G05_062.fcs/Lymphocytes,100,9995
+,Specimen_001_G6_G06_063.fcs,,5547
+> ,Median : FITC-A = 80.589485168,80.6,
+> ,Median : PE-Texas Red-A = 2480.417724609,2480,
+> ,Specimen_001_G6_G06_063.fcs/Lymphocytes,99.7,5528
+,Specimen_001_G7_G07_064.fcs,,10000
+> ,Median : FITC-A = 728.995361328,729,
+> ,Median : PE-Texas Red-A = 2914.994628906,2915,
+> ,Specimen_001_G7_G07_064.fcs/Lymphocytes,100,9995
+,Specimen_001_G8_G08_065.fcs,,10000
+> ,Median : FITC-A = 1137.276367188,1137,
+> ,Median : PE-Texas Red-A = 3343.239990234,3343,
+> ,Specimen_001_G8_G08_065.fcs/Lymphocytes,100,9996
+,Specimen_001_G9_G09_066.fcs,,10000
+> ,Median : FITC-A = 214.251937866,214,
+> ,Median : PE-Texas Red-A = 2022.513916016,2023,
+> ,Specimen_001_G9_G09_066.fcs/Lymphocytes,100,9995
+,Specimen_001_G10_G10_067.fcs,,10000
+> ,Median : FITC-A = 4745.692382812,4746,
+> ,Median : PE-Texas Red-A = 2072.404052734,2072,
+> ,Specimen_001_G10_G10_067.fcs/Lymphocytes,99.9,9993
+,Specimen_001_G11_G11_068.fcs,,10000
+> ,Median : FITC-A = 4603.314941406,4603,
+> ,Median : PE-Texas Red-A = 2047.307006836,2047,
+> ,Specimen_001_G11_G11_068.fcs/Lymphocytes,100,9997
+,Specimen_001_G12_G12_069.fcs,,10000
+> ,Median : FITC-A = 627.918518066,628,
+> ,Median : PE-Texas Red-A = 1556.407836914,1556,
+> ,Specimen_001_G12_G12_069.fcs/Lymphocytes,100,9998
+,Specimen_001_H1_H01_070.fcs,,10000
+> ,Median : FITC-A = 5732.161621094,5732,
+> ,Median : PE-Texas Red-A = 758.441589355,758,
+> ,Specimen_001_H1_H01_070.fcs/Lymphocytes,100,9996
+,Specimen_001_H2_H02_071.fcs,,10000
+> ,Median : FITC-A = 2932.807128906,2933,
+> ,Median : PE-Texas Red-A = 627.918518066,628,
+> ,Specimen_001_H2_H02_071.fcs/Lymphocytes,100,9996
+,Specimen_001_H3_H03_072.fcs,,10000
+> ,Median : FITC-A = 702.829772949,703,
+> ,Median : PE-Texas Red-A = 781.899719238,782,
+> ,Specimen_001_H3_H03_072.fcs/Lymphocytes,99.9,9985
+,Specimen_001_H4_H04_073.fcs,,10000
+> ,Median : FITC-A = 7702.618652344,7703,
+> ,Median : PE-Texas Red-A = 173.110229492,173,
+> ,Specimen_001_H4_H04_073.fcs/Lymphocytes,100,9995
+,Specimen_001_H5_H05_074.fcs,,10000
+> ,Median : FITC-A = 6129.456054688,6129,
+> ,Median : PE-Texas Red-A = 156.555145264,157,
+> ,Specimen_001_H5_H05_074.fcs/Lymphocytes,100,9995
+,Specimen_001_H6_H06_075.fcs,,10000
+> ,Median : FITC-A = 3574.958984375,3575,
+> ,Median : PE-Texas Red-A = 200.975891113,201,
+> ,Specimen_001_H6_H06_075.fcs/Lymphocytes,99.9,9994
+,Specimen_001_H7_H07_076.fcs,,10000
+> ,Median : FITC-A = 5492.854003906,5493,
+> ,Median : PE-Texas Red-A = 27.3309021,27.3,
+> ,Specimen_001_H7_H07_076.fcs/Lymphocytes,100,9997
+,Specimen_001_H8_H08_077.fcs,,10000
+> ,Median : FITC-A = 5492.854003906,5493,
+> ,Median : PE-Texas Red-A = 21.881809235,21.9,
+> ,Specimen_001_H8_H08_077.fcs/Lymphocytes,100,9998
+,Specimen_001_H9_H09_078.fcs,,10000
+> ,Median : FITC-A = 1242.309204102,1242,
+> ,Median : PE-Texas Red-A = 26.591812134,26.6,
+> ,Specimen_001_H9_H09_078.fcs/Lymphocytes,99.9,9992
+,Specimen_001_H10_H10_079.fcs,,10000
+> ,Median : FITC-A = 2776.333740234,2776,
+> ,Median : PE-Texas Red-A = 96.455863953,96.5,
+> ,Specimen_001_H10_H10_079.fcs/Lymphocytes,100,9995
+,Specimen_001_H11_H11_080.fcs,,10000
+> ,Median : FITC-A = 2250.051269531,2250,
+> ,Median : PE-Texas Red-A = 90.755058289,90.8,
+> ,Specimen_001_H11_H11_080.fcs/Lymphocytes,100,9997
+,Specimen_001_H12_H12_081.fcs,,10000
+> ,Median : FITC-A = 988.583251953,989,
+> ,Median : PE-Texas Red-A = 104.088020325,104,
+> ,Specimen_001_H12_H12_081.fcs/Lymphocytes,100,9996
